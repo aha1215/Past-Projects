@@ -1,2 +1,2 @@
 # Past-Projects
-A collection of programs written in C++
+A collection of C++ projects
